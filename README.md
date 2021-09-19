@@ -14,3 +14,4 @@ Setup:
 
 ## rapidAPÏ
 coin ranking: https://rapidapi.com/Coinranking/api/coinranking1/
+bing news search: https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/
